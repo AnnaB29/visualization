@@ -9,26 +9,24 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
-      Your answer...
 
+    Example 1: https://public.tableau.com/app/profile/arjen.groeneveld/viz/24healthstatsfeb25/Dashboard1
 
-
-
-
-
+    Overall I think this graphic showing an individual's 2024 data is well made. It offers a comprehensive view of activity throughout the year. It is presented in an aesthetic manner. The circular design provides continuity and is easy to navigate. It allows you to overlay the energy burned data with the bodymass data.   
 
       ```
     - How could this data visualization have been improved?  
-      ```
-      Your answer...
 
+    I think the use of colour could have been more effectively used. Energy burned and steps are shown in the same colour which makes the interpretation more difficult. I also think that it would be beneficial to move the number of workouts closer to the energy burned so that you can compare them better. 
 
+    
+    Example 2: https://public.tableau.com/app/profile/mary.jesna/viz/Healthdata_17417872513850/Story1
 
+    This graphic has a lot of information on it but it is difficult to interpret. The colour scheme is not well chosen. The background colour clashes with the colours used for the visualizations. 
 
+ - How could this data visualization have been improved?  
 
-
-      
+    The chart in the top left was particularly confusing. It could have been visualized with part-to-whole stacked column/bar. Additionally, the ages were displayed in random order (not chronological). Thus, an improvement that could be made would be displaying in chronological order. The middle graphic showed the number of patients which each disease using circles with numbers in it. I think that was unnecessary and could hae been put into a tabular format. I think the same applies for the blood type data. The box plot was a missed opportunity to colour each of the boxes with the respective colour of each disease (shown in the circle graph). Additionally, I think the bar graphs are redundant. You could just keep the one in the top right. Instead, I would include a heatmap that would display billing amount by age group/disease.
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
